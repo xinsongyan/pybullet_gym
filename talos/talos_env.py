@@ -8,7 +8,7 @@ if __name__ == '__main__':
 
     sim_rate = 1000
     g = 9.81
-    urdfPath = os.getcwd() + '/urdf/talos_lower_body.urdf'
+    urdfPath = os.getcwd() + '/urdf/talos_lower_body_mesh_updated.urdf'
 
     homing_config = np.zeros(12)
 
